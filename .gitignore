@@ -1,2 +1,10 @@
 Private.txt
 build/
+build
+config.txt
+*.exe
+bin/*.exe
+temp*
+**/configs
+**/configs/local.py
+output/**/result.exe
